@@ -5,7 +5,7 @@ $colorSplashMedium: lighten($colorSplash, 75%);
 $colorSplashDark: darken($colorSplash, 20%);
 $colorSplashDesaturated: lighten(desaturate($colorSplash,100%), 20%); /* unused */
 $colorSplashContrast: #FFFFFF; /* needs much more adaption, should be used as text color for elements with $colorSplash background */
-$darkBlack: #000;
+$darkBlack: #1D1E20;
 $primary1: #32AB9A;
 $primary2: #00948E;
 $lightestGray: #FBFBFB;
